@@ -9,7 +9,7 @@
 {"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live_2.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MDlf/sos.png","titleTog":"NEW WORLD INFO TV"},
 
 
-{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live_2.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MDlf/sos.png","titleTog":"NEW WORLD MAGAZINE TV"}]}]}
+{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-info/video/live_2.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NEW WORLD MAGAZINE TV"}]}]}
 
 
 
