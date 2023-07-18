@@ -15,6 +15,6 @@
 
 {"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NEW WORLD MAGAZINE TV"},
 
-{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-magazine/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NEW WORLD MAGAZINE TV"},
+{"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-sport-2/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NEW WORLD MAGAZINE TV"},
 
 {"descriptionTog":"New World Info est la thématique gabonaise du groupe new world mediaque","sourceTog":["https://hls.newworldtv.com/nw-sport-3/video/live.m3u8"],"subtitleTog":"By Google","thumbTog":"https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png","titleTog":"NEW WORLD MAGAZINE TV"}]}]}
